@@ -3,5 +3,4 @@
 <head>        
 <Die Coolen</title>  
 </head>    
-<body>Ich bin nicht
-  nice</body> </html>
+<body>Ich bin klein -akin</body> </html>
